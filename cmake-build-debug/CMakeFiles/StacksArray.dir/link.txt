@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/StacksArray.dir/main.c.o  -o StacksArray.exe -Wl,--out-implib,libStacksArray.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
